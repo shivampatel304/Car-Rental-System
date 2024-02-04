@@ -6,7 +6,7 @@ const blogData = [
     {
       id: 1,
       title: "The best way to drive cars",
-      author: "Muhib",
+      author: "Shivam",
       date: "12 Dec, 2020",
       time: "9pm",
       imgUrl: img01,
@@ -19,7 +19,7 @@ const blogData = [
     {
       id: 2,
       title: "If your car battery is down",
-      author: "Muhib",
+      author: "Shivam",
       date: "12 Dec, 2020",
       time: "9pm",
       imgUrl: img02,
@@ -32,7 +32,7 @@ const blogData = [
     {
       id: 3,
       title: "The best way to give trip",
-      author: "Muhib",
+      author: "Shivam",
       date: "12 Dec, 2020",
       time: "9pm",
       imgUrl: img03,
